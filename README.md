@@ -8,6 +8,13 @@ This project analyzes the Northwind sales database using MySQL to identify trend
 
 
 
+## Project Files
+
+- `Northwind_Analysis_Final.sql` - SQL queries used for the analysis.
+- `Northwind.sql` Database schema and sample data.
+
+
+
 ## Dataset / Setup
 
 This project uses the Northwind sample database.
@@ -53,7 +60,7 @@ To run the analysis:
 
 ## Data Notes
 
-- This dataset begins on July 4, 2006 and ends on May 6, 2008
+- This dataset begins on July 4, 2006 and ends on May 6, 2008.
 - Because of this, 2006 and 2008 are partial years.
 - May 2008 is also a partial month, so month-over-month comparisons involving May 2008 should be interpreted carefully.
 - Revenue was calculated using unit price, quantity, and discount from the OrderDetail table.
