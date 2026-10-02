@@ -68,7 +68,7 @@ To run the analysis:
 
 
 ## SQL Skills Demonstrated
-- SELECT statements and filtering
+- SELECT statements
 - Aggregate functions including COUNT, SUM, AVG, MIN, and MAX
 - GROUP BY and ORDER BY
 - INNER JOIN and LEFT JOIN
