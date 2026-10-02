@@ -2,6 +2,12 @@
 
 
 
+## Project Overview
+
+This project analyzes the Northwind sales database using MySQL to identify trends in customer behavior, product performance, geographic sales, and revenue over time.
+
+
+
 ## Dataset / Setup
 
 This project uses the Northwind sample database.
@@ -10,11 +16,6 @@ To run the analysis:
 1. Run `Northwind.sql` in MySQL Workbench to create and populate the database.
 2. Open `Northwind_Analysis_Final.sql`
 3. Run the analysis queries against the Northwind schema.
-
-
-## Project Overview
-
-This project analyzes the Northwind sales database using MySQL to identify trends in customer behavior, product performance, geographic sales, and revenue over time.
 
 
 
